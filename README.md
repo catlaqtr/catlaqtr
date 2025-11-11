@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://github.com/catlaqtr">GitHub</a> •
-  <a href="https://www.linkedin.com/in/mete-unal">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mete-unal">LinkedIn</a> •
+  <a href="https://leetcode.com/u/catlaqtr/">LeetCode</a>
 </p>
 
 ---
@@ -44,6 +45,15 @@ A full-stack **React + Spring Boot** remake of the classic Battleship game. Feat
 #### 🎭 **AnimeGuess**
 A full-stack **Next.js + Spring Boot + Spring AI** project that generates anime-themed questions using **AI**.  
 Includes **Tailwind CSS**, **reCAPTCHA**, **SendGrid**, and smart backend integration for dynamic content generation.
+
+---
+
+### 🧩 LeetCode Progress
+<p align="center">
+  <a href="https://leetcode.com/u/catlaqtr/">
+    <img src="https://leetcard.jacoblin.cool/catlaqtr?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
