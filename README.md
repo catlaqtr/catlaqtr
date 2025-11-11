@@ -10,7 +10,7 @@
 ---
 
 ### 🧑‍💻 About me
-- 🇨🇦 Studying **Computer Programming @ Humber College** (Graduating May 2026)
+- 🇨🇦 Studying **Computer Programming @ Humber College** (Graduating August 2026)
 - 🌱 Learning **Java, Spring Boot, React, and TypeScript**
 - 🧪 Exploring **testing, Docker, AWS, and CI/CD**
 - 💡 Practicing **LeetCode** to master data structures & algorithms
